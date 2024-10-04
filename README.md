@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## 💻 About Me:
 
@@ -15,7 +15,7 @@
 - 🚀 **Looking to Contribute:** Actively seeking opportunities to contribute to **open-source projects**
 - 💡 **Focused on:** Practicing **Data Structures and Algorithms** to improve problem-solving abilities
 - 🎯 **Career Goal:** To work on impactful projects and become a skilled Software Development Engineer
-- 💬 **Ask me about:** Flutter, Java, C++, Python, Machine Learning, and Front-end Development
+- 💬 **Ask me about:** Flutter, Java, C++, Python and Machine Learning
 - 📫 **Reach me at:** aryanlanghanoja233@gmail.com
 
 ---
