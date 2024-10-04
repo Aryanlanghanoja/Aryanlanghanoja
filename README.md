@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 💻 <b>About Me</b>:
+## 💻 About Me:
 
 - 🌱 **Currently Learning:** Flutter and honing my skills in mobile app development
 - 🚀 **Looking to Contribute:** Actively seeking opportunities to contribute to **open-source projects**
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌐 <b>Connect with me</b>:
+## 🌐 Connect with me:
 
 <p align="left">
     <a href="https://linkedin.com/in/aryan-langhanoja-049507250" target="blank">
@@ -53,7 +53,7 @@
 
 ---
 
-## ⚙️ <b>Languages and Tools</b>:
+## ⚙️ Languages and Tools:
 
 <div align="center">
   
@@ -63,7 +63,7 @@
 
 ---
 
-## 📊 <b>GitHub Stats</b>:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanlanghanoja&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
