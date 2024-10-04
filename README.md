@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <b>I'm Aryan Langhanoja</b></h1>
+<h1 align="center">Hi 👋, I'm Aryan Langhanoja </h1>
 <h3 align="center">A Passionate Programmer aspiring to become a Software Development Engineer</h3>
 
 <p align="left">
@@ -12,7 +12,7 @@
 ## 💻 About Me:
 
 - 🌱 **Currently Learning:** Flutter and honing my skills in mobile app development
-- 🚀 **Looking to Contribute:** Actively seeking opportunities to contribute to **open-source projects**
+- 🚀 **Looking to Contribute:** Actively seeking opportunities to contribute to **Open-Source Projects**
 - 💡 **Focused on:** Practicing **Data Structures and Algorithms** to improve problem-solving abilities
 - 🎯 **Career Goal:** To work on impactful projects and become a skilled Software Development Engineer
 - 💬 **Ask me about:** Flutter, Java, C++, Python and Machine Learning
@@ -20,7 +20,7 @@
 
 ---
 
-##🏆** GitHub Profile Trophy**
+## 🏆 GitHub Profile Trophy:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=flat&no-frame=true&row=2&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
@@ -28,6 +28,7 @@
 </p>
 
 ---
+
 
 ## 🌐 Connect with me:
 
