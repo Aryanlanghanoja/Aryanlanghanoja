@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">🏆 <b>GitHub Profile Trophy</b></h3>
+##🏆** GitHub Profile Trophy**
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=flat&no-frame=true&row=2&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
