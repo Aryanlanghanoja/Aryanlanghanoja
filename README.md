@@ -11,7 +11,7 @@
 
 ## 💻 About Me:
 
-- 🌱 **Currently Learning:** Flutter and honing my skills in mobile app development
+- 🌱 **Currently Learning:** MERN and honing my skills in Full Stack Development
 - 🚀 **Looking to Contribute:** Actively seeking opportunities to contribute to **Open-Source Projects**
 - 💡 **Focused on:** Practicing **Data Structures and Algorithms** to improve problem-solving abilities
 - 🎯 **Career Goal:** To work on impactful projects and become a skilled Software Development Engineer
