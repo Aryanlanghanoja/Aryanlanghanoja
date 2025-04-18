@@ -25,17 +25,17 @@ const aryan = {
 ## 🚀 Tech Arsenal
 
 ### Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,r,php,js" alt="Programming Languages" />
 </p>
 
 ### Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,flutter,figma" alt="Frontend Development" />
 </p>
 
 ### Tools & Technologies
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,arduino,postman,sklearn" alt="Tools & Technologies" />
 </p>
 
