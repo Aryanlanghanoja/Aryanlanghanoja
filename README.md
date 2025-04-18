@@ -3,17 +3,15 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=aryanlanghanoja&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-  [![Gmail](https://img.shields.io/badge/Gmail-aryanlanghanoja233%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:aryanlanghanoja233@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aryan-langhanoja-049507250)
+  ![Profile Views](https://komarev.com/ghpvc/?username=aryanlanghanoja&label=Profile%20Views&color=0e75b6&style=flat-square)
+  [![Gmail](https://img.shields.io/badge/Gmail-aryanlanghanoja233%40gmail.com-red?style=flat-square&logo=gmail)](mailto:aryanlanghanoja233@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aryan-langhanoja-049507250)
   
 </div>
 
----
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-### 🌟 About Me
+## 🌟 About Me
 ```javascript
 const aryan = {
   currentlyLearning: "MERN Stack Development",
@@ -24,84 +22,52 @@ const aryan = {
 };
 ```
 
-<br>
+## 🚀 Tech Arsenal
 
-### 🚀 Tech Arsenal
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,r,php,js" alt="Programming Languages" />
+</p>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Programming Languages</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,r,php,js" alt="Programming Languages" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Frontend Development</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,flutter,figma" alt="Frontend Development" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools & Technologies</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,arduino,postman,sklearn" alt="Tools & Technologies" />
-      </div>
-    </td>
-  </tr>
-</table>
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,flutter,figma" alt="Frontend Development" />
+</p>
 
----
+### Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,arduino,postman,sklearn" alt="Tools & Technologies" />
+</p>
 
-### 📈 Contribution Graph
-<div align="center">
-  
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanlanghanoja&theme=tokyo-night&hide_border=true)
-  
-</div>
+## 📈 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanlanghanoja&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanlanghanoja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
 
-### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanlanghanoja&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  
-  [![Trophy](https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanlanghanoja&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
 
-### 📊 GitHub Statistics
+## 🔗 Connect With Me
 
-<div align="center">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanlanghanoja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanlanghanoja&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanlanghanoja&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryanlanghanoja&theme=tokyonight)
-  
-</div>
-
----
-
-### 🔗 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aryan-langhanoja-049507250)
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/27521361)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white&style=for-the-badge)](https://kaggle.com/aryanlanghanoja)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=codechef&logoColor=white&style=for-the-badge)](https://www.codechef.com/users/aryanpatel023)
-  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/aryanlanghanoja1)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://www.leetcode.com/aryan_langhanoja)
-  
-</div>
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/aryan-langhanoja-049507250"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/27521361"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" /></a>
+  <a href="https://kaggle.com/aryanlanghanoja"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle" /></a>
+  <a href="https://www.codechef.com/users/aryanpatel023"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=codechef&logoColor=white&style=for-the-badge" alt="CodeChef" /></a>
+  <a href="https://www.hackerrank.com/aryanlanghanoja1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white&style=for-the-badge" alt="HackerRank" /></a>
+  <a href="https://www.leetcode.com/aryan_langhanoja"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode" /></a>
+</p>
 
 <div align="center">
   
