@@ -36,7 +36,7 @@ const aryan = {
 
 ### Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,arduino,postman,sklearn" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,postman,sklearn" alt="Tools & Technologies" />
 </p>
 
 ## 📈 GitHub Stats
