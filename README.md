@@ -31,12 +31,12 @@ const aryan = {
 
 ### Development Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,react,node,springboot" alt="Development Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,react,nodejs,nodejs" alt="Development Technologies" />
 </p>
 
 ### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,mysql,mongodb,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,mysql,sequelize,sqlite,mongodb,postman," alt="Tools" />
 </p>
 
 ## 📈 GitHub Stats
