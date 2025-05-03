@@ -42,7 +42,7 @@ const aryan = {
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanlanghanoja&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanlanghanoja&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanlanghanoja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
@@ -51,7 +51,7 @@ const aryan = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=nord&column=5&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
 <p align="center">
