@@ -29,14 +29,14 @@ const aryan = {
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,r,php,js" alt="Programming Languages" />
 </p>
 
-### Frontend Development
+### Development Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,react,node,springboot" alt="Development Technologies" />
 </p>
 
-### Tools & Technologies
+### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,postman" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,mysql,mongodb,postman" alt="Tools" />
 </p>
 
 ## 📈 GitHub Stats
