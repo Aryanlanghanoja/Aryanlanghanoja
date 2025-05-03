@@ -18,7 +18,7 @@ const aryan = {
   focusedOn: "Data Structures & Algorithms",
   lookingFor: "Open-Source Contribution Opportunities",
   careerGoal: "Impactful Projects & SDE Excellence",
-  expertise: ["Flutter", "Java", "C++", "Python", "ML"]
+  expertise: ["Flutter", "Java", "C++"]
 };
 ```
 
@@ -31,12 +31,12 @@ const aryan = {
 
 ### Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,flutter,figma" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter" alt="Frontend Development" />
 </p>
 
 ### Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,postman,sklearn" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,postgresql,postman" alt="Tools & Technologies" />
 </p>
 
 ## 📈 GitHub Stats
