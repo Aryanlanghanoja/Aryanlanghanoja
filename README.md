@@ -31,7 +31,7 @@ const aryan = {
 
 ### Development Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,react,nodejs,nodejs" alt="Development Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,react,nodejs" alt="Development Technologies" />
 </p>
 
 ### Tools
