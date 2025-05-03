@@ -51,7 +51,7 @@ const aryan = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=nord&column=5&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanlanghanoja&theme=nord&column=9&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
 <p align="center">
