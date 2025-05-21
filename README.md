@@ -26,7 +26,7 @@ const aryan = {
 
 ### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,r,php,js" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,php,js" alt="Programming Languages" />
 </p>
 
 ### Development Technologies
