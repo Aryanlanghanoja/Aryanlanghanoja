@@ -18,7 +18,7 @@ const aryan = {
   focusedOn: "Data Structures & Algorithms",
   lookingFor: "Open-Source Contribution Opportunities",
   careerGoal: "Impactful Projects & SDE Excellence",
-  expertise: ["Flutter", "Java", "C++"]
+  expertise: ["Java", "C++" , "Javascript"]
 };
 ```
 
@@ -76,3 +76,4 @@ const aryan = {
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&width=435&lines=Building+the+future+one+line+at+a+time;Always+learning%2C+always+growing;Turning+coffee+into+code" alt="Typing SVG" />
   
 </div>
+
