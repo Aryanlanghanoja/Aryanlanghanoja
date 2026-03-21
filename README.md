@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Aryan Langhanoja</h1>
-<h3 align="center">Passionate Programmer & Aspiring Software Development Engineer</h3>
+<h3 align="center">Passionate Programmer & Software Development Engineer</h3>
 
 <div align="center">
   
